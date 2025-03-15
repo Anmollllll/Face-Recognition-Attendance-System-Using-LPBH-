@@ -1,5 +1,5 @@
-# Face-Recognition-System-Using-LPBH-
-# Face Recognition Attendance System
+# Face-Recognition-System-Using-LPBH
+
 
 ## Overview
 This project is a **Face Recognition Attendance System** built using **Python, OpenCV, SQLite, and Tkinter**. It automates attendance marking using facial recognition, making it ideal for **educational institutions** and **workplaces**.
