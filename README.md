@@ -113,7 +113,7 @@ This project is a **Face Recognition Attendance System** built using **Python, O
 
 ---
 
-## Future Enhancements 🚀
+## Future Enhancements 
 - **Deep Learning Integration** (CNN) for better recognition.
 - **Web-Based Interface** for remote access.
 - **Cloud Database** for secure storage.
