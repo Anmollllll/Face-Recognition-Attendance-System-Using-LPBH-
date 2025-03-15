@@ -1,4 +1,4 @@
-# Face-Recognition-System-Using-LPBH
+# Face-Recognition-Attendance-System-Using-LPBH
 
 
 ## Overview
